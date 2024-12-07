@@ -3,7 +3,7 @@ body {
   }
   
   .jumbotron {
-    background-color: grey;
+    background-color: #212121;
   }
   
   .card {
@@ -18,6 +18,6 @@ body {
     margin-left: -47.5rem;
   }
   .btn-outline-dark:hover {
-    background-color: dark; /* Couleur au survol */
-    border-color: dark;
+    background-color: #212121; /* Couleur au survol */
+    border-color: #212121;
   }

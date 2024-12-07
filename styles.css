@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .jumbotron {
+    background-color: #ffffff;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  .btn-outline-primary {
+    background-color: #ffffff; /* Couleur Discord */
+    margin-bottom: 10px; /* Espace entre le bouton et le copyright */
+    margin-left: -47.5rem
+  }
+  .btn-outline-primary:hover {
+    background-color: #5a6db2; /* Couleur au survol */
+    border-color: #5a6db2;
+  }

@@ -12,12 +12,12 @@ body {
   body {
     font-family: Arial, sans-serif;
   }
-  .btn-outline-primary {
+  .btn-outline-dark {
     background-color: #ffffff; /* Couleur Discord */
     margin-bottom: 10px; /* Espace entre le bouton et le copyright */
     margin-left: -47.5rem
   }
-  .btn-outline-primary:hover {
+  .btn-outline-dark:hover {
     background-color: #5a6db2; /* Couleur au survol */
     border-color: #5a6db2;
   }

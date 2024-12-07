@@ -18,6 +18,6 @@ body {
     margin-left: -47.5rem;
   }
   .btn-outline-dark:hover {
-    background-color: #5a6db2; /* Couleur au survol */
-    border-color: #5a6db2;
+    background-color: dark; /* Couleur au survol */
+    border-color: dark;
   }

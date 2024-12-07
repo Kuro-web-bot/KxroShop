@@ -4,7 +4,7 @@ body {
   
   .jumbotron {
     background-color: #212121;
-    color: white;
+    color: #ffffff;
   }
   
   .card {
@@ -22,3 +22,7 @@ body {
     background-color: #212121; /* Couleur au survol */
     border-color: #212121;
   }
+#navbarNav {
+    background color: #212121;
+    color: #ffffff;
+}
